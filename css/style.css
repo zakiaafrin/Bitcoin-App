@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://www.marketing360.pt/wp-content/uploads/2018/06/z7IwkWQ.jpg);
+    margin-left: 8%;
+    padding: 15%;
+}
+
+table {
+    background-color: rgb(233, 8, 132);
+    border: 2px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+       
+ }
+ 
+ th, td {  
+    background-color: rgb(0, 255, 255);  
+    border: 2px solid black;
+    border-radius: 25%;
+    text-align: center;
+    color: rgb(94, 3, 3);
+    padding: 10px;
+ }  
