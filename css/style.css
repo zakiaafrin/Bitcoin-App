@@ -1,7 +1,10 @@
 body{
-    background-image: url(https://www.marketing360.pt/wp-content/uploads/2018/06/z7IwkWQ.jpg);
-    margin-left: 8%;
-    padding: 15%;
+    background-image: url('https://www.marketing360.pt/wp-content/uploads/2018/06/z7IwkWQ.jpg');
+    margin-top: 80px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    padding: 12%;
 }
 
 table {
@@ -9,6 +12,8 @@ table {
     border: 2px solid black;
     font-family: Arial, Helvetica, sans-serif;
     width: 50%;
+    border-radius: 15%;
+    padding: 8px;
        
  }
  
@@ -20,3 +25,21 @@ table {
     color: rgb(94, 3, 3);
     padding: 10px;
  }  
+
+ .refresh {
+     border-radius: 20%;
+     background-color: rgb(0, 255, 255);
+     padding: 5px;
+     margin-top: 5px;
+     outline: none;
+     margin-left: 20px;
+ }
+
+ .addprice {
+    border-radius: 20%;
+    background-color: rgb(0, 255, 255);
+    padding: 5px;
+    margin-top: 5px;
+    outline: none;
+    margin-left: 20px;
+}
